@@ -30,6 +30,6 @@
     "tslint-config-standard": "^9.0.0",
     "typescript": "^3.8.3",
     "uglify-es": "^3.3.9",
-    "wrtc": "^0.4.4"
+    "wrtc": "^0.4.5"
   }
 }
